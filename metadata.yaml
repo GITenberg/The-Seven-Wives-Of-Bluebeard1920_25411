@@ -1,0 +1,53 @@
+_repo: The-Seven-Wives-Of-Bluebeard1920_25411
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stewart, D. B.
+    gutenberg_agent_id: '31316'
+    url: http://www.gutenberg.org/2009/agents/31316
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+  editors:
+  - agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+  - agent_name: May, J. Lewis (James Lewis)
+    alias: May, James Lewis
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '31313'
+    url: http://www.gutenberg.org/2009/agents/31313
+description: The seven wives of Bluebeard. -- The miracle of the great St. Nicolas.
+  -- The story of the Duchess of Cicogne and of Monsieur de Boulingrin. -- The shirt.
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Bluebeard (Legendary character) -- Fiction'
+- !lcc 'PQ'
+title: 'The Seven Wives Of Bluebeard
+
+  1920'
+url: http://www.gutenberg.org/ebooks/25411
