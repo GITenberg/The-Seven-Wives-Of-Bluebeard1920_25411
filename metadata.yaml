@@ -34,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31313
 description: The seven wives of Bluebeard. -- The miracle of the great St. Nicolas.
   -- The story of the Duchess of Cicogne and of Monsieur de Boulingrin. -- The shirt.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25411#The-Seven-Wives-Of-Bluebeard1920
 gutenberg_issued: '2008-05-09'
 gutenberg_type: Text
 identifiers:
